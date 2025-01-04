@@ -1,2 +1,2 @@
-# Responsive_Web_design_fcc
+# Responsive Web design fcc
 FreecCodeCamp Web Design Certification Tasks
